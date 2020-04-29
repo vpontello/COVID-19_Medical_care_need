@@ -1,4 +1,5 @@
-# COVID-19_Medical_care_need
+# COVID-19_Medical_care_need 
+### presentation video https://www.youtube.com/watch?v=8nx9XQFHlnE
 Model developed to predict the need of semi-intensive or intensive medical care of patients based on regular blood and urine exams.
 
 In the COVID-19 pandemic crisis, a main issue is to manage the healthcare infra structure in order to serve the infected people. Not every person need semi-intensive or intensive medical care and these medical ressources are scarse due to the ammount of infected people.
